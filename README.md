@@ -1,16 +1,42 @@
-## Hi there 👋
+# Hi, I'm Nattakitti 👋
 
-<!--
-**D-Nattakitti/D-Nattakitti** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Frontend & Fullstack Developer | React, JavaScript, HTML/CSS
 
-Here are some ideas to get you started:
+📫 Contact me: nattakitti.work@gmail.com | [LinkedIn](https://www.linkedin.com/in/nattakit-matcha/)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🛠 Skills
+
+**Frontend:** React, JavaScript, HTML, CSS, TailwindCSS  
+**Backend:** Node.js, Express  
+**Database:** MySQL, MongoDB  
+**Tools:** Git, GitHub, VSCode, Postman  
+
+---
+
+## 📂 Projects
+
+| Project | Description | Screenshot | Link |
+|---------|------------|------------|------|
+| Portfolio Website | Personal portfolio website showcasing projects and skills | ![Portfolio](https://raw.githubusercontent.com/D-Nattakitti/GithubWebsitePN/main/screenshot.png) | [View](https://d-nattakitti.github.io/GithubWebsitePN/index.html) |
+
+## 📈 GitHub Stats
+
+![Nattakitti's GitHub stats](https://github-readme-stats.vercel.app/api?username=D-Nattakitti&show_icons=true&theme=radical)
+
+---
+
+## 💡 Goals / What I’m working on
+
+- Building more **React & Fullstack projects**  
+- Learning **Next.js & advanced Node.js**  
+- Improving **Portfolio & Resume** for job applications
+
+---
+
+## 📫 Contact
+
+- Email: nattakitti.work@gmail.com  
+- LinkedIn: [https://www.linkedin.com/in/nattakit-matcha/(https://www.linkedin.com/in/nattakit-matcha/)]
+- Portfolio: [https://d-nattakitti.github.io/GithubWebsitePN/index.html](https://d-nattakitti.github.io/GithubWebsitePN/index.html)
