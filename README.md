@@ -2,7 +2,7 @@
 
 Frontend & Fullstack Developer | React, JavaScript, HTML/CSS
 
-📫 Contact me: nattakitti.work@gmail.com | [LinkedIn](https://www.linkedin.com/in/nattakit-matcha/)
+📫 Contact: nattakitti.work@gmail.com | [LinkedIn](https://www.linkedin.com/in/nattakit-matcha/)
 
 ---
 
@@ -18,25 +18,34 @@ Frontend & Fullstack Developer | React, JavaScript, HTML/CSS
 ## 📂 Projects
 
 | Project | Description | Screenshot | Link |
-|---------|------------|------------|------|
-| Portfolio Website | Personal portfolio website showcasing projects and skills | ![Portfolio](https://raw.githubusercontent.com/D-Nattakitti/GithubWebsitePN/main/screenshot.png) | [View](https://d-nattakitti.github.io/GithubWebsitePN/index.html) |
-
-## 📈 GitHub Stats
-
-![Nattakitti's GitHub stats](https://github-readme-stats.vercel.app/api?username=D-Nattakitti&show_icons=true&theme=radical)
+|---------|-------------|------------|------|
+| Personal Website | Showcasing projects and skills | ![testweb](images/testweb.png) | [View](https://d-nattakitti.github.io/GithubWebsitePN/index.html) |
+| Palworld Database | DB website with search, filter, and admin panel | ![Palworld-DB](images/palworld-db.png) | [View](https://d-nattakitti.github.io/Palworld-DB/) |
 
 ---
 
-## 💡 Goals / What I’m working on
+## 📈 GitHub Stats & Badges
 
-- Building more **React & Fullstack projects**  
-- Learning **Next.js & advanced Node.js**  
-- Improving **Portfolio & Resume** for job applications
+![Nattakitti's GitHub stats](https://github-readme-stats.vercel.app/api?username=D-Nattakitti&show_icons=true&theme=radical)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=D-Nattakitti&layout=compact&theme=radical)
+
+![Repo Size](https://img.shields.io/github/repo-size/D-Nattakitti/Palworld-DB?style=for-the-badge)  
+![Stars](https://img.shields.io/github/stars/D-Nattakitti/Palworld-DB?style=for-the-badge)  
+![Followers](https://img.shields.io/github/followers/D-Nattakitti?style=for-the-badge)  
+
+---
+
+## 💡 Goals / What I’m Working On
+
+- Building more React & Fullstack projects  
+- Learning Next.js & advanced Node.js  
+- Improving portfolio & resume for job applications  
 
 ---
 
 ## 📫 Contact
 
-- Email: nattakitti.work@gmail.com  
-- LinkedIn: [https://www.linkedin.com/in/nattakit-matcha/(https://www.linkedin.com/in/nattakit-matcha/)]
-- Portfolio: [https://d-nattakitti.github.io/GithubWebsitePN/index.html](https://d-nattakitti.github.io/GithubWebsitePN/index.html)
+- **Email:** nattakitti.work@gmail.com  
+- **LinkedIn:** [https://www.linkedin.com/in/nattakit-matcha/](https://www.linkedin.com/in/nattakit-matcha/)  
+- **Portfolio:** [https://d-nattakitti.github.io/GithubWebsitePN/index.html](https://d-nattakitti.github.io/GithubWebsitePN/index.html)
