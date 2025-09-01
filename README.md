@@ -18,8 +18,11 @@ Frontend & Fullstack Developer | React, JavaScript, HTML/CSS
 ## 📂 Projects
 
 | Project | Description | Screenshot | Link |
-|---------|------------|------------|------|
-| Portfolio Website | Personal portfolio website showcasing projects and skills | ![Portfolio](https://raw.githubusercontent.com/D-Nattakitti/GithubWebsitePN/main/screenshot.png) | [View](https://d-nattakitti.github.io/GithubWebsitePN/index.html) |
+|---------|-------------|------------|------|
+| Personal Website | Showcasing projects and skills | ![testweb](images/testweb.png) | [View](https://d-nattakitti.github.io/GithubWebsitePN/index.html) |
+| Palworld Database | DB website with search, filter, and admin panel | ![Palworld-DB](images/palworld-db.png) | [View](https://d-nattakitti.github.io/Palworld-DB/) |
+
+---
 
 ## 📈 GitHub Stats & Badges
 
