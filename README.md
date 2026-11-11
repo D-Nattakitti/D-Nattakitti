@@ -1,6 +1,6 @@
 <div align="center">
 
-![CODE RONIN](./assets/cyber-ronin-banner.svg)
+![CODE RONIN — Cyberpunk Wuxia](./code_ronin_banner.png)
 
 ### `浪人 // THE CODE RONIN`
 **Nattakitti — System Development · Automation · Data**
